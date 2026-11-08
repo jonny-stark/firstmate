@@ -1,0 +1,5 @@
+# original watcher (3e9c781d), bash: GNU bash, version 3.2.57(1)-release (arm64-apple-darwin25)
+/private/var/folders/bh/3c4dbmzs0rsbjg9d5nwbsrwh0000gp/T/fm-watch-arm-tests.JpKKPZ/cleanup-shadow-quiet/repo/bin/fm-watch.sh: line 3662: FM_WAKE_QUEUE_LOCK: unbound variable
+not ok - acknowledged takeover closed: watcher: started pid=63743 (beacon fresh)
+check: rearm-resurface
+exit=1

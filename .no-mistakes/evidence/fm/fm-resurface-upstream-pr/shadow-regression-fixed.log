@@ -1,0 +1,4 @@
+# fixed watcher (646e2870), bash: GNU bash, version 3.2.57(1)-release (arm64-apple-darwin25)
+/private/var/folders/bh/3c4dbmzs0rsbjg9d5nwbsrwh0000gp/T/fm-watch-arm-tests.2gWSsV/cleanup-shadow-outage/repo/bin/fm-watch-arm.sh: line 897: 47228 Killed: 9               FM_WATCH_HANDLING_SUCCESSOR=1 "$WATCH" > "$child_out"
+ok - watch-arm: cleanup binds its runtime paths across shadowed TERM, quiet takeover, queued wakes and unplanned outage
+exit=0
